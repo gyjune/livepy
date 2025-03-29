@@ -3,7 +3,7 @@
     {
       "name": "LITV直播(python)",
       "type": 3,
-      "api": "./live_litv.py",
+      "api": "https://cdn.jsdelivr.net/gh/gyjune/livepy@main/live/live_litv.py",
       "ext": {}
     }
   ]
